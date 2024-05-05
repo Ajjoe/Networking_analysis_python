@@ -1,0 +1,2 @@
+This project is a port scanner project to find out any open ports on a target system using python scripts
+I have made this to give myself a better understanding of python and low level networking scripts
